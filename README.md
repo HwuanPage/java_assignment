@@ -1,2 +1,3 @@
-# java_assignment
-programmers back-end dev assignment to be familiar with java
+# Java_assignment
+프로그래머스 백엔드 데브옵스 에서 진행한 과제물 입니다.
+스프링 수업을 진행하기전에, JAVA에 대한 공부를 진행하는 프로젝트입니다.
